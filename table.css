@@ -1,0 +1,35 @@
+table{
+    text-align: center;
+   width: 50%;
+   margin: auto;
+   border: 5px rgb(75, 73, 73) solid;
+   margin-bottom: 10px;
+border-collapse: collapse;
+   
+}
+
+/* table td{
+    border: 1px rgb(7, 7, 7) solid;
+} */
+tr
+{
+border-bottom: 1px solid black;
+
+}
+td{
+    border-left: 1px solid black;
+    
+    }
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+form {
+  width: 50%;
+    margin: auto;text-align: center;
+    border: 4px rgb(54, 34, 34) solid;
+    border-radius: 20px;
+    padding: 10px;
+}
